@@ -51,8 +51,6 @@
 (require 'cond-let)
 (require 'format-spec)
 
-(eval-when-compile (require 'subr-x))
-
 ;;; Options
 ;;;; Common
 
