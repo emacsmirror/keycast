@@ -6,10 +6,10 @@
 ;; Homepage: https://github.com/tarsius/keycast
 ;; Keywords: multimedia
 
-;; Package-Version: 1.4.8
+;; Package-Version: 1.4.9
 ;; Package-Requires: (
 ;;     (emacs   "28.1")
-;;     (compat  "31.0")
+;;     (compat  "31.1")
 ;;     (cond-let "1.1"))
 
 ;; SPDX-License-Identifier: GPL-3.0-or-later
