@@ -26,3 +26,4 @@ current binding, and write your own code to display it somewhere.
 #+html: <a href="https://snapshots.melpa.org/#/keycast"><img alt="MELPA Snapshots" src="https://snapshots.melpa.org/packages/keycast-badge.svg"/></a>
 #+html: <a href="https://releases.melpa.org/#/keycast"><img alt="MELPA Releases" src="https://releases.melpa.org/packages/keycast-badge.svg"/></a>
 #+html: <a href="https://elpa.nongnu.org/nongnu/keycast.html"><img alt="NonGNU ELPA" src="https://emacsair.me/assets/badges/nongnu-elpa.svg"/></a>
+#+html: <a href="https://emacsair.me/human"><img alt="human made" src="https://emacsair.me/assets/badges/human.svg"/></a>
